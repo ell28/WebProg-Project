@@ -23,7 +23,7 @@
     <nav>
       <ul>
         <li><a href="explore.php" class="active">EXPLORE</a></li>
-        <li><a href="news.php">NEWS</a></li>
+        <li><a href="forum.php">FORUM</a></li>
         <li><a href="aboutus.php">ABOUT US</a></li>
       </ul>
     </nav>

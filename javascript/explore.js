@@ -344,7 +344,7 @@ document.querySelector("#search").addEventListener("submit", (e) => {
 });
 
 
-// * Modal (Steven)
+// * Modal
 const cards = document.querySelectorAll(".card");
 const modal = document.querySelector(".modal");
 const modalContainer = document.querySelector(".modal-container");
