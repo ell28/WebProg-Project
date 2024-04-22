@@ -45,7 +45,7 @@ header {
   width: 100%;
   overflow: hidden;
   position: fixed;
-  background: linear-gradient(110deg, #030000, #b44006);
+  background: linear-gradient(110deg, #030000, teal);
   z-index: 100;
 }
 
@@ -96,13 +96,13 @@ a {
 }
 
 nav .active {
-  background: rgb(46, 14, 0);
+  background: teal;
   border-radius: 25px;
 }
 
 a:hover {
-  color: orange;
-  text-shadow: 0 0 5px orange;
+  color: turquoise;
+  text-shadow: 0 0 5px white;
 }
 
 .container .profile {
