@@ -15,7 +15,7 @@ if (isset($_SESSION['user_id'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GamesNexus 2.0</title>
     <link rel="icon" href="assets/logo-title.png" type="image/png">
-    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins&display=swap">
     <script>
         $(window).blur(function() {
