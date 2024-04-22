@@ -11,6 +11,7 @@ if (isset($_POST['submit'])) {
     if (mysqli_num_rows($select) > 0) {
         $row = mysqli_fetch_assoc($select);
         $_SESSION['user_id'] = $row['id'];
+        $_SESSION['role_type'] = $row['role_type'];
         header('location:profile.php');
     } else {
         $message[] = 'Username or Password is incorrect';

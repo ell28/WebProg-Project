@@ -16,7 +16,7 @@
 
   <header>
     <div class="logo">
-      <a href="index.html">
+      <a href="index.php">
         <img src="assets/logo-transparent.png">
       </a>
     </div>
